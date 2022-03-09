@@ -30,7 +30,7 @@ header_pages:
 # Build settings
 highlighter: rouge
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 kramdown:
   parse_block_html: false
   auto_ids: true
