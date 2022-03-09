@@ -181,12 +181,10 @@ If the FLIP isn't ready, the editor will send it back to the author for revision
 Once the FLIP is ready for the repository, the FLIP editor will:
 
 - Assign an FLIP number (generally the PR number, but the decision is with the editors)
-- Merge the corresponding [pull request](https://github.com/ethereum/FLIPs/pulls)
+- Merge the corresponding [pull request](https://github.com/factland/FLIPs/pulls)
 - Send a message back to the FLIP author with the next step.
 
-Many FLIPs are written and maintained by developers with write access to the Ethereum codebase. The FLIP editors monitor FLIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.
-
-The editors don't pass judgment on FLIPs. We merely do the administrative & editorial part.
+The FLIP editors monitor FLIP changes, and correct any structure, grammar, spelling, or markup mistakes we see. The editors don't pass judgment on FLIPs. We merely do the administrative & editorial part.
 
 ## Style Guide
 
