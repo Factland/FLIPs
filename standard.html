@@ -1,0 +1,7 @@
+---
+layout: page
+title: Standard
+---
+
+{% assign flips=site.pages|where:"type","Standard" %}
+{% include fliptable.html flips=flips %}
