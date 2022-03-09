@@ -1,0 +1,7 @@
+---
+layout: page
+title: Meta
+---
+
+{% assign flips=site.pages|where:"type","Meta" %}
+{% include fliptable.html flips=flips %}
