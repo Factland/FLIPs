@@ -40,4 +40,3 @@ The goal of FLIPs is to codify and record the evoluation to FactLand.
 2. Preview at http://localhost:4000.
 
 More information is [here](https://help.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll).
-~
