@@ -79,7 +79,7 @@ Each FLIP should have the following parts:
 
 ## FLIP Formats and Templates
 
-FLIPs should be written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format. There is a [template](https://github.com/factland/FLIPs/blob/master/flip-template.md) to follow.
+FLIPs should be written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format. There is a [template](https://github.com/factland/FLIPs/blob/main/flip-template.md) to follow.
 
 ## FLIP Header Preamble
 
